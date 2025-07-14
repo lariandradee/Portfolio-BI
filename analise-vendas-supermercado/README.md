@@ -4,8 +4,8 @@
 Analisar as vendas de três filiais de supermercado em diferentes cidades para identificar padrões de compra, avaliar desempenho por produto e entender o perfil dos clientes.
 
 ## 📁 Dataset
-- Fonte: [Kaggle – Supermarket Sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
-- Tamanho: 1.000 registros
+- Fonte: [Kaggle – Supermarket Store Branches Sales Analysis](https://www.kaggle.com/datasets/surajjha101/stores-area-and-sales-data)
+- Tamanho: 896 registros
 
 ## 🛠️ Ferramentas utilizadas
 - Power BI
